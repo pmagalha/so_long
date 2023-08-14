@@ -51,4 +51,6 @@ At 42 School, it is expected that almost every project is written in accordance 
 	- No more than 25 lines per function and 5 functions per file
 	- No assigns and declarations in the same line (unless static)
 	- No more than 5 variables in 1 function
+ 	- All the characters animations were done by me, frame by frame, using Photopea online.
+  	- I may have taken a little longer than I needed on the animation part, but it was really fun. If you are short on time for the blackhole absorption, it would not be advisable to do the same.
 	... 
