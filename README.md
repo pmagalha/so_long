@@ -13,9 +13,7 @@ It aims at teaching students about rendering, sprites, animations, color schemes
 
 <br>
 
-<div align="center">
-
-![fullscreenshot](https://github.com/pmagalha/so_long/assets/136360645/57b4fc8d-20c7-4ff1-b064-e41c68d2e9d4)
+<div align="center">![fullscreenshot(1)](https://github.com/pmagalha/so_long/assets/136360645/36f866f3-e2d8-4065-ba02-a597be32a585)
 
 ![eating2](https://github.com/pmagalha/so_long/assets/136360645/1a25451c-7563-4dae-981d-787a7e7cf797)
 
