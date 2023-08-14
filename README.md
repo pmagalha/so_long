@@ -19,7 +19,7 @@ EBA is a super super-hyper-mega cute friendly demon spawn, but she turns into a 
 
 EBA satisfies her hunger with the little nigiris spread across the world. Her face turns demonic when hungry, and turns back to her original wobbly cuteness when fed.
 
-Disclaimer: Any resemblance to my girlfriend or any other actual person is purely coincidental.
+*Disclaimer: Any resemblance to any actual person or to my girlfriend is purely coincidental.*
 
 ![eating2](https://github.com/pmagalha/so_long/assets/136360645/1a25451c-7563-4dae-981d-787a7e7cf797)
 
