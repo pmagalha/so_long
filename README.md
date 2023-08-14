@@ -1,3 +1,6 @@
+<br>
+<div align="center">
+
 # **so_long**
 </p>
 <p align="center">
@@ -5,10 +8,6 @@
 	<a href="#how-to-use">How to use</a> •
 	<a href="#disclaimer">Disclaimer</a>
 </p>
-
-
-<br>
-<div align="center">
 
 ## THE LORE
 <strong>Welcome to the imaginary dream world of EBA™!!</strong>
