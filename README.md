@@ -14,7 +14,9 @@ It aims at teaching students about rendering, sprites, animations, color schemes
 <br>
 
 <div align="center">
-[eating](https://github.com/pmagalha/so_long/assets/136360645/c4a11f5f-7722-42ab-914d-9721673dfe1a)
+
+![eating](https://github.com/pmagalha/so_long/assets/136360645/28f180b8-0dd6-49ce-9564-d7e38ee0690b)
+
 
 </div>
 
