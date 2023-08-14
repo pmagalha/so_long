@@ -1,6 +1,5 @@
 # **so_long**
-</p>
-<p align="center">
+<br>
 	<a href="#THE LORE">About</a> •
 	<a href="#how-to-use">How to use</a> •
 	<a href="#disclaimer">Disclaimer</a>
