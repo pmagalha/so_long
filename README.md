@@ -22,7 +22,7 @@ Disclaimer: Any resemblance to my girlfriend or any other actual person is purel
 
 ![eating2](https://github.com/pmagalha/so_long/assets/136360645/1a25451c-7563-4dae-981d-787a7e7cf797)
 
-Be careful not to get caught by the evil blue hunger demons. EBA's stomach will turn outwards and she will vanish into a hungry eternal oblivion.
+Be careful not to get caught by the evil blue hunger demons. EBA's stomach will turn outwards and she will vanish into hungry eternal oblivion.
 
 ![death](https://github.com/pmagalha/so_long/assets/136360645/60270d27-d83d-4288-ad73-750e979d8791)
 
@@ -36,10 +36,10 @@ Be careful not to get caught by the evil blue hunger demons. EBA's stomach will 
 
 2º - Run the program using `so_long` or `so_long_bonus` with a map of your choice
 ```sh
-$ ./so_long path_to_the_map_file.ber
+$ ./so_long path_to_the_map/file.ber
 ```
 ```sh
-$ ./so_long_bonus path_to_the_map_file.ber
+$ ./so_long_bonus path_to_the_map/file.ber
 ```
 
 <br>
