@@ -1,5 +1,4 @@
 # **so_long**
-> 42 Common Core Project 
 </p>
 <p align="center">
 	<a href="#THE LORE">About</a> •
