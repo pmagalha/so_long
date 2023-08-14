@@ -12,7 +12,7 @@
 ## THE LORE
 <strong>Welcome to the imaginary dream world of EBA™!!</strong> (not really ™ :v)
 
-EBA is a super super-hyper-mega cute friendly demon spawn, but she turns into a manace when hungry. Help EBA finding all the sushi pieces and escaping the claws of the evil blue hunger demons.
+EBA is a super super-hyper-mega cute friendly demon spawn, but she turns into a manace when hungry. Help EBA to find all the sushi pieces and escaping the claws of the evil blue hunger demons.
 
 	
 ![fullscreenshot(1)](https://github.com/pmagalha/so_long/assets/136360645/36f866f3-e2d8-4065-ba02-a597be32a585)
