@@ -13,6 +13,7 @@
 
 ## THE LORE
 Welcome to the imaginary dream world of EBA™!!!
+
 EBA™ is a super super-hyper-mega cute friendly demon spawn, but she turns into a manace when hungry. Help EBA™ finding all the sushi pieces and escaping the claws of the evil blue hunger demons.
 
 	
