@@ -2,24 +2,28 @@
 > 42 Common Core Project 
 </p>
 <p align="center">
-	<a href="#about">About</a> •
+	<a href="#THE LORE">About</a> •
 	<a href="#how-to-use">How to use</a> •
 	<a href="#disclaimer">Disclaimer</a>
 </p>
 
-## ABOUT
-The so_long project is a 2D game where the player navigates through a maze-like environment, avoiding obstacles and enemies to reach a goal.
-It aims at teaching students about rendering, sprites, animations, color schemes and game development in 2D.
+## THE LORE
+Welcome to the imaginary dream world of EBA™!!!
+EBA™ is a super super-hyper-mega cute friendly demon spawn, but she turns into a manace when hungry. Help EBA™ finding all the sushi pieces and escaping the claws of the evil blue hunger demons.
 
 <br>
-
 <div align="center">
 	
 ![fullscreenshot(1)](https://github.com/pmagalha/so_long/assets/136360645/36f866f3-e2d8-4065-ba02-a597be32a585)
 
+EBA satisfies her hunger with the little nigiris spread across the world. Her face turns demonic when hungry, and turns back to her original wobbly cuteness when fed.
+Disclaimer: Any resemblance to my girlfriend or any other actual person is purely coincidental.
+
 ![eating2](https://github.com/pmagalha/so_long/assets/136360645/1a25451c-7563-4dae-981d-787a7e7cf797)
 
+Be careful not to get caught by the evil blue hunger demons. EBA's stomach will turn outwards and she will vanish into a hungry eternal oblivion.
 
+![death](https://github.com/pmagalha/so_long/assets/136360645/60270d27-d83d-4288-ad73-750e979d8791)
 
 </div>
 
