@@ -23,7 +23,7 @@ EBA satisfies her hunger with the little nigiris spread across the world. Her fa
 
 ![eating2](https://github.com/pmagalha/so_long/assets/136360645/1a25451c-7563-4dae-981d-787a7e7cf797)
 
-Be careful not to get caught by the evil blue hunger demons. EBA's stomach will turn outwards and she will vanish into hungry eternal oblivion.
+Be careful not to get caught by the evil blue hunger demons. EBA's stomach will implode inwards and she will vanish into hungry eternal oblivion.
 
 ![death](https://github.com/pmagalha/so_long/assets/136360645/60270d27-d83d-4288-ad73-750e979d8791)
 
